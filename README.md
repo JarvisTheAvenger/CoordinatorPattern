@@ -1,4 +1,4 @@
-# CoordinatorPattern
+# Coordinator Pattern
 
 View controllers work best when they stand alone in your app, unaware of their position in your app’s flow or even that they are part of a flow in the first place. Not only does this help make your code easier to test and reason about, but it also allows you to re-use view controllers elsewhere in your app more easily.
 
